@@ -1,5 +1,5 @@
 <h1 align="center">Java - Aplicando la Orientación a Objetos.</h1>
-<h2 align="left">Proyecto Screenmatch, donde se trabajará y pondrán en práctica:</h2>
+<h2 align="left">Proyecto Screenmatch, donde se trabajará y pondrán en práctica los siguientes temas:</h2>
 <p align="left">-Conceptos de Orientación a Objetos usando Java.</br>
 -Modelado de abstracciones de aplicaciones a través de clases, atributos y métodos.</br>
 -Uso de herencia como mecanismo de reutilización de código.</br>
