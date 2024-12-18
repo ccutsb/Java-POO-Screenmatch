@@ -12,6 +12,11 @@ public class Pelicula extends Titulo implements Clasificable{
 
     @Override
     public int getClasificable() {
-        return (int) (calculaMedia() / 2);
+        return (int) (calculaMedia() / 2);}
+
+    @Override
+    public String toString() {
+        return "Pelicula: " + this.getNombre() + " (" + getFechaDeLanzamiento() + ")";
+
     }
 }
