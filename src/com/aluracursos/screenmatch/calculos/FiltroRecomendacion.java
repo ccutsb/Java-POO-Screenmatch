@@ -2,9 +2,9 @@ package com.aluracursos.screenmatch.calculos;
 
 public class FiltroRecomendacion {
 
-    void filtra(Clasificable clasificable){
+    public void filtra(Clasificable clasificable){
         if (clasificable.getClasificable() >= 4){
-            System.out.println("Muy bien evaluado en el momento");
+            System.out.println("Muy bien evaluado al momento");
         } else if (clasificable.getClasificable() >= 2){
             System.out.println("Popular en el momento");
         } else {
